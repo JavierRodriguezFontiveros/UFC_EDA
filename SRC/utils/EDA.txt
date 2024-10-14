@@ -1,3 +1,12 @@
+Hacer un jupyter, hacer dos uno mas general de limpiza y otro mas extenso de pasos a seguir, con referencias entre ellos (enlaces)
+sicologia del color para datos y graficas
+
+visualizacion follum: mapa de las nacionalidades mas repetidas (latitud y longitud) (github gist)
+
+cuando actives el juoyter notebook se te descarguen los ficheros
+y luego con otro comando se organicen en carpetas
+puede quedar super bien eso si me da tiempo claro
+
 quiero recomendar a el pequeño Jhon que hacer para ser el mejor
 y por ello voy hacer una busqueda de informacion en la ufc
 o mundo del boxeo
@@ -118,3 +127,11 @@ strikes_defense_total_difference (str_def_total_diff)
 takedowns_defense_total_difference (td_def_total_diff)
 submissions_average_difference (sub_avg_diff)
 takedowns_average_difference (td_avg_diff)
+
+
+
+**anotaciones de mejor:**
+tener en cuenta outlayers
+meter una columna de genero y ciudad
+estadisticas de jhon de partida y cuales tendra que mejorar al final
+los pesos los puedo hacer por webscrapping y las nacioladides podria ser
