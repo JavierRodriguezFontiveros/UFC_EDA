@@ -2,6 +2,8 @@ Hacer un jupyter, hacer dos uno mas general de limpiza y otro mas extenso de pas
 sicologia del color para datos y graficas
 
 visualizacion follum: mapa de las nacionalidades mas repetidas (latitud y longitud) (github gist)
+hacer ordenadas las graficas en general y poner las leyendas en 45 grados
+mapas de calor? o usando banderas? o circulos de donde se repite mas
 
 cuando actives el juoyter notebook se te descarguen los ficheros
 y luego con otro comando se organicen en carpetas
@@ -16,7 +18,8 @@ meterle story telling
 ir de hipotesis muy generales a hipotesis muy concretas ( segmentar)
 presentar con canvas puede ser buen ejemplo
 
-
+en los markdowns usar colores de letras para mayor visualizacion y orden (ejemplo: <font color='red'>
+* timesData includes 14 features that are:)
 
 
 bibliotecas de visualizacion:
@@ -31,107 +34,11 @@ Nombre: Amanda Ribas, Victorias: 12, Derrotas: 5, Altura: 160.02 (cm), Peso: 56.
 SLpM(golpes por minuto): 4.63, porcentaje_golpes_acertados: 0.4, golpes absorbidos por minuto: 3.4, striking_defense: 0.61, 
 media_derribos: 2.07, eficacia derribos: 0.51, porcentaje de derribos defendidos: 0.85, numero intentos de sumision: 0.7
 
-Estadísticas_pelea:
-event_name
-red_fighter (red_fighter)
-blue_fighter (b_fighter)
-winner
-weight_class
-is_title_bout
-gender
-method
-finish_round
-total_rounds
-time_sec
-referee
-red_knockdowns (r_kd)
-red_significant_strikes (r_sig_str)
-red_significant_strikes_attempted (r_sig_str_att)
-red_significant_strikes_accuracy (r_sig_str_acc)
-red_strikes (r_str)
-red_strikes_attempted (r_str_att)
-red_strikes_accuracy (r_str_acc)
-red_takedowns (r_td)
-red_takedowns_attempted (r_td_att)
-red_takedowns_accuracy (r_td_acc)
-red_submissions_attempted (r_sub_att)
-red_reversals (r_rev)
-red_control_time_seconds (r_ctrl_sec)
-red_total_wins (r_wins_total)
-red_total_losses (r_losses_total)
-red_age (r_age)
-red_height (r_height)
-red_weight (r_weight)
-red_reach (r_reach)
-red_stance (r_stance)
-red_strikes_land_per_minute (r_SLpM_total)
-red_strikes_absorbed_per_minute (r_SApM_total)
-red_significant_strikes_accuracy_total (r_sig_str_acc_total)
-red_takedowns_accuracy_total (r_td_acc_total)
-red_strikes_defense_total (r_str_def_total)
-red_takedowns_defense_total (r_td_def_total)
-red_submissions_average (r_sub_avg)
-red_takedowns_average (r_td_avg)
-blue_knockdowns (b_kd)
-blue_significant_strikes (b_sig_str)
-blue_significant_strikes_attempted (b_sig_str_att)
-blue_significant_strikes_accuracy (b_sig_str_acc)
-blue_strikes (b_str)
-blue_strikes_attempted (b_str_att)
-blue_strikes_accuracy (b_str_acc)
-blue_takedowns (b_td)
-blue_takedowns_attempted (b_td_att)
-blue_takedowns_accuracy (b_td_acc)
-blue_submissions_attempted (b_sub_att)
-blue_reversals (b_rev)
-blue_control_time_seconds (b_ctrl_sec)
-blue_total_wins (b_wins_total)
-blue_total_losses (b_losses_total)
-blue_age (b_age)
-blue_height (b_height)
-blue_weight (b_weight)
-blue_reach (b_reach)
-blue_stance (b_stance)
-blue_strikes_land_per_minute (b_SLpM_total)
-blue_strikes_absorbed_per_minute (b_SApM_total)
-blue_significant_strikes_accuracy_total (b_sig_str_acc_total)
-blue_takedowns_accuracy_total (b_td_acc_total)
-blue_strikes_defense_total (b_str_def_total)
-blue_takedowns_defense_total (b_td_def_total)
-blue_submissions_average (b_sub_avg)
-blue_takedowns_average (b_td_avg)
-knockdown_difference (kd_diff)
-significant_strikes_difference (sig_str_diff)
-significant_strikes_attempted_difference (sig_str_att_diff)
-significant_strikes_accuracy_difference (sig_str_acc_diff)
-strikes_difference (str_diff)
-strikes_attempted_difference (str_att_diff)
-strikes_accuracy_difference (str_acc_diff)
-takedowns_difference (td_diff)
-takedowns_attempted_difference (td_att_diff)
-takedowns_accuracy_difference (td_acc_diff)
-submissions_attempted_difference (sub_att_diff)
-reversals_difference (rev_diff)
-control_time_difference (ctrl_sec_diff)
-total_wins_difference (wins_total_diff)
-total_losses_difference (losses_total_diff)
-age_difference (age_diff)
-height_difference (height_diff)
-weight_difference (weight_diff)
-reach_difference (reach_diff)
-strikes_land_per_minute_difference (SLpM_total_diff)
-strikes_absorbed_per_minute_difference (SApM_total_diff)
-significant_strikes_accuracy_total_difference (sig_str_acc_total_diff)
-takedowns_accuracy_total_difference (td_acc_total_diff)
-strikes_defense_total_difference (str_def_total_diff)
-takedowns_defense_total_difference (td_def_total_diff)
-submissions_average_difference (sub_avg_diff)
-takedowns_average_difference (td_avg_diff)
-
-
 
 **anotaciones de mejor:**
-tener en cuenta outlayers
+tener en cuenta outlayers, medias, max, min (describe)
+poner flechas en las graficas o circulos para que se vean directamente los resultados donde fijarse
+usar paletas de colores en las graficas
 meter una columna de genero y ciudad
 estadisticas de jhon de partida y cuales tendra que mejorar al final
 los pesos los puedo hacer por webscrapping y las nacioladides podria ser
