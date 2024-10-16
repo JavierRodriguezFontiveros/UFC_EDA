@@ -27,7 +27,7 @@ A lo largo del análisis, se han planteado y resuelto las siguientes hipótesis,
 5. [Influencia de la **Altura y el Alcance** en los resultados 📏](#Altura)
 6. [Países con más participantes en la **UFC** 🌍](#Mapamundi)
 
----
+
 
 ## Contenidos del Proyecto
 
@@ -56,7 +56,26 @@ El análisis se organiza de la siguiente manera:
 
 Al final del proyecto, esperamos ofrecer una **visión clara y basada en datos** de los factores más influyentes en el éxito dentro de la UFC. Estas conclusiones pueden servir tanto para fanáticos del deporte como para aquellos interesados en análisis estadísticos de competiciones deportivas.
 
----
+
+
+## Lenguajes y Librerías Utilizadas
+
+En este proyecto, se han utilizado los siguientes lenguajes de programación y librerías:
+
+### Lenguajes:
+- `Python`: Para todo el análisis de datos, scraping y visualización.
+- `HTML`: Para la visualizacion del mapa_mundi y visualizaciones en el notebook.
+- `Markdown`: Para la estructuración y documentación del proyecto.
+
+### Librerías:
+- `pandas` para la manipulación y análisis de los datos.
+- `numpy` para operaciones matemáticas y manejo de matrices.
+- `requests` para hacer solicitudes HTTP y obtener datos adicionales mediante Web Scraping.
+- `BeautifulSoup` para la extracción de datos de páginas web.
+- `seaborn` y `matplotlib` para visualización de datos.
+- `warnings` para manejar las advertencias y mejorar la legibilidad del código.
+
+
 
 ## Instalación y Uso
 
