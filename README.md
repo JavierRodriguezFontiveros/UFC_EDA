@@ -1,7 +1,7 @@
 # Análisis Exploratorio: Métricas de la UFC
 
 <p align="center">
-  <img src="./UFC.jpg" alt="Análisis UFC"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9keJOlaq_Tc3s1l7GFltp6NDeKzz1wGCLhQ&s" alt="Análisis UFC"/>
 </p>
 
 ## Descripción del Proyecto
